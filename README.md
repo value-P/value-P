@@ -26,9 +26,3 @@
       src="https://img.shields.io/badge/paul8152@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-</br>
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=value-P&layout=compact" />&nbsp
-</div>
