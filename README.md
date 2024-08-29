@@ -7,8 +7,8 @@
 <h3 align="center">✨ Language / Library ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp  
-  <img src="https://camo.githubusercontent.com/b850212bec97eb544be2efdc388d62bcc761a20d3ddae82f39dfd866c115690d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446972656374582d3736423930303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e7669646961266c6f676f436f6c6f723d7768697465" alt="DirectX" data-canonical-src="https://img.shields.io/badge/-DirectX-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/c%23-%23139120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp  
+  <img src="https://img.shields.io/badge/DirectX-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
